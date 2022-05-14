@@ -1,3 +1,4 @@
+Programowanie obiektowe 1 - Projekt
 
 1. Zaprojektowanie w podejściu obiektowym aplikacji kalkulatora arytmetycznego
 przy założeniu traktowania operacji jako obiektu opisanego parametrami;
